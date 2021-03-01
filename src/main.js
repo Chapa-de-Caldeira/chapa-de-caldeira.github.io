@@ -4,6 +4,9 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import '../node_modules/semantic-ui-css/semantic.min.css'
+
+import '../semantic/dist/semantic.min.css'
+
 import semantic from 'semantic'
 import JQuery from 'jquery'
 

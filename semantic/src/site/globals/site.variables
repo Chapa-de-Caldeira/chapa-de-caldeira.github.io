@@ -1,0 +1,27 @@
+/*******************************
+     User Global Variables
+*******************************/
+
+@fontName: 'News Cycle';
+
+@headerFont: 'News Cycle', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+
+@pageFont: 'News Cycle', 'Helvetica Neue', Arial, Helvetica, sans-serif;
+
+@googleFontFamily: 'News+Cycle';
+
+@primaryColor   : @blue;
+@secondaryColor : @grey;
+@red            : #990000;
+@orange         : #FE9A76;
+@yellow         : #FFD700;
+@olive          : #32CD32;
+@green          : #016936;
+@teal           : #008080;
+@blue           : #607D8B;
+@violet         : #EE82EE;
+@purple         : #B413EC;
+@pink           : #FF1493;
+@brown          : #A52A2A;
+@grey           : #A0A0A0;
+@black          : #000000;
