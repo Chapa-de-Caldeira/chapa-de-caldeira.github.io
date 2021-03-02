@@ -7,10 +7,15 @@
 			.ui.medium.image
 				img(src='../static/nyc-empireslate.jpg')
 
-		a.active.item.
-			
-			Bass 
-			
+		.ui.bottom.dropdown.item
+			i.dropdown.icon
+			| Bass
+
+			.menu
+				a.item Charles Mingus
+				a.item Percy Heath
+				a.item Charlie Haden
+				a.item John Entwhistle		
 		a.item.
 			
 			Drums
